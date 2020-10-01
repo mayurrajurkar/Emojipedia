@@ -1,4 +1,4 @@
-const emojipedia = [
+ const emojipedia = [
   {
     id: 1,
     emoji: "💪",
