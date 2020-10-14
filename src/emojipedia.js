@@ -33,7 +33,16 @@ const emojipedia = [
     name: "Party Face",
     meaning:
       "This is an emoji with a party hat and blowing rolls. Colorful paper scattered around his face. It is generally used to celebrate holidays, anniversaries or interesting occasions to express the emotions of  celebration,  cheer, and  happiness."
-  }
+  },
+   {
+     id: 6,
+     emoji: "❤️",
+     name: "heart",
+     meaning:
+        "It can be used to express gratitude,
+              love, happiness."
+   }
+
 ];
 
 export default emojipedia;
